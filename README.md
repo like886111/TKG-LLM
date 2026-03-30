@@ -1,4 +1,4 @@
-# TKG-LLM
+# TG-LLM
 
 title: "TG-LLM: Temporal Graph as Enhanced Embedding for Time Series Forecasting with LLMs"
 
