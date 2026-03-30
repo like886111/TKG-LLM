@@ -1,6 +1,6 @@
 # TKG-LLM
 
-title: "TKG-LLM: Temporal Knowledge Graph as Enhanced Prompt Learning with LLM for Time Series Forecasting"
+title: "TG-LLM: Temporal Graph as Enhanced Embedding for Time Series Forecasting with LLMs"
 
 
 
